@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\OdemeSistemleri.deps.json
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\OdemeSistemleri.runtimeconfig.json
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\appsettings.Development.json
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\appsettings.json
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\OdemeSistemleri.staticwebassets.runtime.json
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\OdemeSistemleri.exe
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\OdemeSistemleri.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\bin\Debug\OdemeSistemleri.pdb
+C:\Users\Lenovo\source\repos\OdemeSistemleri\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\OdemeSistemleri\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OdemeSistemleri\obj\Debug\docker-c.35A3FFBA.Up2Date

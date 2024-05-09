@@ -1,0 +1,25 @@
+﻿@model TransferViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Welcome to the Index page</h1>
+
+<h2>Para Transferi</h2>
+
+<form asp-action="TransferYapAction" method="post">
+    <div class="form-group">
+        <label asp-for="HesapId" class="control-label">Gönderen Hesap Numarası:</label>
+        <input asp-for="HesapId" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="HesapId2" class="control-label">Alan Hesap Numarası:</label>
+        <input asp-for="HesapId2" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="TransferMiktari" class="control-label">Transfer Miktarı:</label>
+        <input asp-for="TransferMiktari" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Transfer Yap</button>
+</form>

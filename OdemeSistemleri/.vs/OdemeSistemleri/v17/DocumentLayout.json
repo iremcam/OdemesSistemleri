@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\models\\services\\faturaodemeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\models\\services\\faturaodemeconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\controllers\\transfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\controllers\\transfercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\controllers\\faturalarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\controllers\\faturalarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\models\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\models\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio 10.0\\yeni\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\views\\faturalar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\views\\faturalar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\views\\islemgecmisi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\views\\islemgecmisi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\models\\islemgecmisiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\models\\islemgecmisiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A1AB5-7FAC-4BB9-A8E2-0FEF4E56ACA6}|EL\\EL.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\el\\hesaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A1AB5-7FAC-4BB9-A8E2-0FEF4E56ACA6}|EL\\EL.csproj|solutionrelative:el\\hesaplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B22F96-7D57-4F61-A6BC-D661E265E1D4}|BL\\BL.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\bl\\hesaplarbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B22F96-7D57-4F61-A6BC-D661E265E1D4}|BL\\BL.csproj|solutionrelative:bl\\hesaplarbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\models\\transferviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\models\\transferviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\views\\transfer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\views\\transfer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A1AB5-7FAC-4BB9-A8E2-0FEF4E56ACA6}|EL\\EL.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\el\\statu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A1AB5-7FAC-4BB9-A8E2-0FEF4E56ACA6}|EL\\EL.csproj|solutionrelative:el\\statu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\odemesistemleri\\models\\enums\\hesapturleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBFC5FF-9598-4DF4-8882-7DC31E370258}|OdemeSistemleri\\OdemeSistemleri.csproj|solutionrelative:odemesistemleri\\models\\enums\\hesapturleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B22F96-7D57-4F61-A6BC-D661E265E1D4}|BL\\BL.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\bl\\islemgecmisibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B22F96-7D57-4F61-A6BC-D661E265E1D4}|BL\\BL.csproj|solutionrelative:bl\\islemgecmisibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A1AB5-7FAC-4BB9-A8E2-0FEF4E56ACA6}|EL\\EL.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\el\\hesapturleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A1AB5-7FAC-4BB9-A8E2-0FEF4E56ACA6}|EL\\EL.csproj|solutionrelative:el\\hesapturleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A1AB5-7FAC-4BB9-A8E2-0FEF4E56ACA6}|EL\\EL.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\el\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A1AB5-7FAC-4BB9-A8E2-0FEF4E56ACA6}|EL\\EL.csproj|solutionrelative:el\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3A1AB5-7FAC-4BB9-A8E2-0FEF4E56ACA6}|EL\\EL.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\el\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD3A1AB5-7FAC-4BB9-A8E2-0FEF4E56ACA6}|EL\\EL.csproj|solutionrelative:el\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECEAC9D-480E-4520-A858-88716029922B}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\dal\\kullanicilardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECEAC9D-480E-4520-A858-88716029922B}|DAL\\DAL.csproj|solutionrelative:dal\\kullanicilardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B22F96-7D57-4F61-A6BC-D661E265E1D4}|BL\\BL.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\bl\\kullanicibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B22F96-7D57-4F61-A6BC-D661E265E1D4}|BL\\BL.csproj|solutionrelative:bl\\kullanicibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ECEAC9D-480E-4520-A858-88716029922B}|DAL\\DAL.csproj|c:\\users\\lenovo\\source\\repos\\odemesistemleri\\dal\\migrations\\20240429140927_now.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ECEAC9D-480E-4520-A858-88716029922B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20240429140927_now.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Models\\Services\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\Models\\Services\\RabbitMQService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Models\\Services\\RabbitMQService.cs",
+              "RelativeToolTip": "OdemeSistemleri\\Models\\Services\\RabbitMQService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:58:45.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FaturalarController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Controllers\\FaturalarController.cs",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\Controllers\\FaturalarController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Controllers\\FaturalarController.cs",
+              "RelativeToolTip": "OdemeSistemleri\\Controllers\\FaturalarController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAowCEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:23:55.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransferController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Controllers\\TransferController.cs",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\Controllers\\TransferController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Controllers\\TransferController.cs",
+              "RelativeToolTip": "OdemeSistemleri\\Controllers\\TransferController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:06:26.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FaturaOdemeConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Models\\Services\\FaturaOdemeConsumer.cs",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\Models\\Services\\FaturaOdemeConsumer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Models\\Services\\FaturaOdemeConsumer.cs",
+              "RelativeToolTip": "OdemeSistemleri\\Models\\Services\\FaturaOdemeConsumer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:58:55.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Program.cs",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Program.cs",
+              "RelativeToolTip": "OdemeSistemleri\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAWwCcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:25:28.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
+              "ViewState": "AQIAANIAAAAAAAAAAAApwNYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-22T13:46:34.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Views\\Faturalar\\Index.cshtml",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\Views\\Faturalar\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Views\\Faturalar\\Index.cshtml",
+              "RelativeToolTip": "OdemeSistemleri\\Views\\Faturalar\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T11:59:16.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\appsettings.json",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\appsettings.json",
+              "RelativeToolTip": "OdemeSistemleri\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T09:46:18.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio 10.0\\yeni\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio 10.0\\yeni\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio 10.0\\yeni\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio 10.0\\yeni\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAKMSAAAAAAAAAAApwLUSAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-03T13:18:37.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "OdemeSistemleri\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T12:22:41.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransferViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Models\\TransferViewModel.cs",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\Models\\TransferViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Models\\TransferViewModel.cs",
+              "RelativeToolTip": "OdemeSistemleri\\Models\\TransferViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:53:24.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IslemGecmisiViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Models\\IslemGecmisiViewModel.cs",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\Models\\IslemGecmisiViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Models\\IslemGecmisiViewModel.cs",
+              "RelativeToolTip": "OdemeSistemleri\\Models\\IslemGecmisiViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:30:06.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OdemeSistemleri\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T12:22:42.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Views\\IslemGecmisi\\Index.cshtml",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\Views\\IslemGecmisi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Views\\IslemGecmisi\\Index.cshtml",
+              "RelativeToolTip": "OdemeSistemleri\\Views\\IslemGecmisi\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T12:28:13.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Views\\Transfer\\Index.cshtml",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\Views\\Transfer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Views\\Transfer\\Index.cshtml",
+              "RelativeToolTip": "OdemeSistemleri\\Views\\Transfer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T11:53:55.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HesaplarBL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\BL\\HesaplarBL.cs",
+              "RelativeDocumentMoniker": "BL\\HesaplarBL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\BL\\HesaplarBL.cs",
+              "RelativeToolTip": "BL\\HesaplarBL.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:19:29.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Hesaplar.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\EL\\Hesaplar.cs",
+              "RelativeDocumentMoniker": "EL\\Hesaplar.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\EL\\Hesaplar.cs",
+              "RelativeToolTip": "EL\\Hesaplar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:00:44.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Statu.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\EL\\Statu.cs",
+              "RelativeDocumentMoniker": "EL\\Statu.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\EL\\Statu.cs",
+              "RelativeToolTip": "EL\\Statu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:35:18.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HesapTurleri.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Models\\Enums\\HesapTurleri.cs",
+              "RelativeDocumentMoniker": "OdemeSistemleri\\Models\\Enums\\HesapTurleri.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\OdemeSistemleri\\Models\\Enums\\HesapTurleri.cs",
+              "RelativeToolTip": "OdemeSistemleri\\Models\\Enums\\HesapTurleri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:12:58.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240429140927_now.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\DAL\\Migrations\\20240429140927_now.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20240429140927_now.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\DAL\\Migrations\\20240429140927_now.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20240429140927_now.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:09:27.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HesapTurleri.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\EL\\HesapTurleri.cs",
+              "RelativeDocumentMoniker": "EL\\HesapTurleri.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\EL\\HesapTurleri.cs",
+              "RelativeToolTip": "EL\\HesapTurleri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:55:56.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IslemGecmisiBL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\BL\\IslemGecmisiBL.cs",
+              "RelativeDocumentMoniker": "BL\\IslemGecmisiBL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\BL\\IslemGecmisiBL.cs",
+              "RelativeToolTip": "BL\\IslemGecmisiBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:59:26.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Kullanicilar.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\EL\\Kullanicilar.cs",
+              "RelativeDocumentMoniker": "EL\\Kullanicilar.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\EL\\Kullanicilar.cs",
+              "RelativeToolTip": "EL\\Kullanicilar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:01:55.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\EL\\Base.cs",
+              "RelativeDocumentMoniker": "EL\\Base.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\EL\\Base.cs",
+              "RelativeToolTip": "EL\\Base.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:54:14.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KullanicilarDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\DAL\\KullanicilarDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KullanicilarDAL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\DAL\\KullanicilarDAL.cs",
+              "RelativeToolTip": "DAL\\KullanicilarDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:10:18.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KullaniciBL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\BL\\KullaniciBL.cs",
+              "RelativeDocumentMoniker": "BL\\KullaniciBL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OdemeSistemleri\\BL\\KullaniciBL.cs",
+              "RelativeToolTip": "BL\\KullaniciBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:08:02.119Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

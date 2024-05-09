@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\OdemeSistemleri\EL\bin\Debug\net8.0\EL.deps.json
+C:\Users\Lenovo\source\repos\OdemeSistemleri\EL\bin\Debug\net8.0\EL.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\EL\bin\Debug\net8.0\EL.pdb
+C:\Users\Lenovo\source\repos\OdemeSistemleri\EL\obj\Debug\net8.0\EL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\OdemeSistemleri\EL\obj\Debug\net8.0\EL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OdemeSistemleri\EL\obj\Debug\net8.0\EL.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OdemeSistemleri\EL\obj\Debug\net8.0\EL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OdemeSistemleri\EL\obj\Debug\net8.0\EL.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\EL\obj\Debug\net8.0\refint\EL.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\EL\obj\Debug\net8.0\EL.pdb
+C:\Users\Lenovo\source\repos\OdemeSistemleri\EL\obj\Debug\net8.0\ref\EL.dll

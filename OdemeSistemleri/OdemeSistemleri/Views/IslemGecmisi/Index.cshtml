@@ -1,0 +1,31 @@
+﻿@model IEnumerable<IslemGecmisiViewModel>
+
+@{
+    ViewData["Title"] = "İşlem Geçmişi";
+}
+
+<h1>İşlem Geçmişi</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>İşlem Türü</th>
+            <th>İşlem Tarihi</th>
+            <th>Hesap Numarası</th>
+            <th>İkinci Hesap Numarası</th>
+            <th>İşlem Tutarı</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var islem in Model)
+        {
+            <tr>
+                <td>@islem.IslemTuru</td>
+                <td>@islem.IslemTarihi</td>
+                <td>@islem.HesapNumarasi</td>
+                <td>@islem.HesapNumarasi2</td>
+                <td>@islem.IslemTutari</td>
+            </tr>
+        }
+    </tbody>
+</table>

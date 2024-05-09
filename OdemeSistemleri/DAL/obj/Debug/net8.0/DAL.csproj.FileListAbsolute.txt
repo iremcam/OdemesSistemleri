@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\bin\Debug\net8.0\EL.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\bin\Debug\net8.0\EL.pdb
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\OdemeSistemleri\DAL\obj\Debug\net8.0\ref\DAL.dll
